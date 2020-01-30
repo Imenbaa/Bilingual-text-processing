@@ -1,0 +1,722 @@
+europe
+Afghanistan
+Afrique du sud
+Afrique
+Albanie
+Algérie
+algerie
+Allemagne
+Andorre
+Angleterre	
+Angola
+Anguilla	
+Antarctique	
+Antigua et Barbuda	
+Antilles neerlandaises
+Arabie saoudite
+Argentine
+Arménie
+Armenie
+Aruba
+Australie
+america
+Autriche
+Azerbaidjan
+Bahamas
+Bahrein
+Bahrain
+Bangladesh
+Belgique
+Belize
+Bénin
+Benin
+Bermudes
+Bhoutan
+Biélorussie
+Bielorussie
+Birmanie
+Bolivie
+Bosnie-Herzégovine
+Bosnie Herzégovine
+Bosnie-Herzegovine
+Bosnie Herzegovine
+Botswana
+Bouvet
+Brésil
+Bresil
+Brunei
+Bulgarie
+Burkina Faso
+Burundi
+Cambodge
+Cameroun	
+Canada
+Cap Vert
+Cayman
+Chili
+Chine
+Christmas
+Chypre
+Cocos
+Colombie	
+Comores
+Congo
+Cook
+Corée du Nord
+Coree du Nord
+Corée du Sud
+Coree du Sud
+Costa Rica
+Côte d Ivoire
+Cote d Ivoire
+Croatie
+Cuba
+Danemark
+Djibouti
+Dominique
+Égypte
+egypte
+El Salvador
+Émirats arabes unis
+emirats arabes unis
+Équateur
+equateur
+Érythree
+erythree
+Espagne
+Estonie
+États-Unis
+etats-Unis
+Éthiopie
+ethiopie
+Falkland
+Feroe
+Fidji
+Finlande
+France
+Gabon
+Gambie
+Géorgie
+Georgie
+Ghana
+Gibraltar
+Grèce
+Grece
+Grenade
+Groenland
+Guadeloupe
+Guam
+Guatemala
+Guinée
+Guinee
+Guinée Équatoriale
+Guinee equatoriale
+Guinée Bissau
+Guinee Bissau
+Guyane
+Guyane française
+Guyane francaise
+Haiti
+Honduras
+Hongrie
+Inde
+Indonésie
+Indonesie
+Irak
+Iran
+Irlande
+Islande
+Israel
+Italie
+Jamaique
+Japon
+Jordanie
+Kazakhstan
+Kenya
+Kirghizistan
+Kiribati
+Koweit
+La Barbad
+Laos
+Lesotho
+Lettonie
+Liban
+Liberia
+Libye
+Liechtenstein
+Lithuanie
+Luxembourg
+Macau
+Macedoine
+Madagascar
+Malaisie
+Malawi
+Maldives
+Mali
+Malte
+Mariannes du Nord
+Maroc
+Marshall
+Martinique
+Maurice
+Mauritanie
+Mayotte
+Mexique
+Micronésie
+Micronesie
+Moldavie
+Monaco
+Mongolie
+Montserrat
+Mozambique
+Myanmar
+Namibie
+Nauru
+Nepal
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk
+Norvège
+Norvege
+Nouvelle Caledonie
+Nouvelle-Zelande
+Oman
+Ouganda
+Ouzbékistan
+Ouzbekistan
+Pakistan
+Palau
+Panama
+Papouasie Nouvelle Guinée
+Papouasie Nouvelle Guinee
+Paraguay
+Pays-Bas
+Pays Bas
+Pérou
+Perou
+Philippines
+Pitcairn
+Pologne
+Polynesie française
+Polynesie francaise
+Porto Rico
+Portugal
+Qatar
+République centrafricaine
+Republique centrafricaine
+République Dominicaine
+Republique Dominicaine
+République tcheque
+Republique tcheque
+Reunion
+Roumanie
+Royaume-Uni
+Royaume Uni
+Russie
+Rwanda
+Sahara Occidental
+Saint Pierre et Miquelon
+Saint Vincent et les Grenadine
+Saint-Kitts et Nevis
+Saint-Marin
+Sainte Helene
+Sainte Lucie
+Samoa
+Sénégal
+Senegal
+Seychelles
+Sierra Leone
+Singapour
+Slovaquie
+Slovénie
+Slovenie
+Somalie
+Soudan
+Sri Lanka
+Suède
+Suede
+Suisse
+Suriname
+Syrie
+Tadjikistan
+Taiwan
+Tanzanie
+Tchad
+Thailande
+Timor
+Togo
+Tokelau
+Tonga
+Trinité et Tobago
+Tunisie
+Turkmenistan
+Turquie
+Tuvalu
+Ukraine
+Uruguay
+Vanuatu
+Vatican
+Venezuela
+Vierges
+Vietnam
+Wallis et Futuna
+Yémen
+Yemen
+Yougoslavie
+Zaire
+Zambie
+Zimbabwe
+Australia
+Austria
+Azerbaijan
+Albania
+Algeria
+Andorra
+Antigua and Barbuda
+Argentina
+Armenia
+Barbados
+Belarus
+Belgium
+Belize
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Brazil
+Bulgaria
+Burma
+Cabo Verde
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Costa Rica
+Cote d Ivoire
+Côte d Ivoire
+Croatia
+slovakie
+Curacao
+Cyprus
+Czechia
+Cambodia
+Cameroon
+Denmark
+Dominica
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Fiji
+Finland
+Gambia
+Georgia
+Germany
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Holy See
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Korea North
+Korea South
+Kosovo
+Kuwait
+Kyrgyzstan
+Latvia
+Lebanon
+Liberia
+Libya
+Lithuania
+Macedonia
+Malaysia
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Mongolia
+Montenegro
+Morocco
+Namibia
+Netherlands
+New Zealand
+North Korea
+Norway
+Palestinian Territories
+Papua New Guinea
+Peru
+Poland
+Romania
+Russia
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenad
+San Marino
+Sao 
+Tome
+Saudi 
+Arabia
+Senegal
+Serbia
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sudan
+Swaziland
+Sweden
+Switzerland
+Syria
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Timor Leste
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Uganda
+United Arab Emirates
+United Kingdom
+Uzbekistan
+Zambia
+Paris
+Limoges
+Courbevoie
+Marseille
+Tours
+Versailles
+Lannion
+Lyon
+Amiens
+Colombes
+Toulouse
+Perpignan
+Fort-de-France
+Fort de France
+Nice
+Metz
+Aulnay-sous-Bois
+Aulnay sous Bois
+Nantes
+Nante
+Besançon
+Besancon
+Saint-Pierre
+Saint Pierre
+La Reunion
+Strasbourg
+Boulogne-Billancourt
+Boulogne Billancourt
+Rueil-Malmaison
+Rueil Malmaison
+Montpellier
+Orleans
+Orlean
+Pau
+Bordeaux
+Mulhouse
+Aubervilliers
+Lille
+Rouen
+Le Tampon
+Rennes
+Saint-Denis
+Saint Denis
+Champigny-sur-Marne
+Champigny sur Marne
+Reims
+Caen
+Antibes
+Le Havre
+Argenteuil
+Beziers 
+Saint-etienne
+Saint etienne
+Saint-Paul
+Saint Paul
+La Rochelle
+Toulon
+Montreuil 
+Saint-Maur-des-Fosses
+Saint Maur des Fosses
+Grenoble
+Nancy
+Cannes
+Roubaix
+Calais
+Dijon
+Nimes
+Tourcoing
+Saint-Nazaire
+Saint Nazaire
+Angers
+Nanterre
+Merignac
+Villeurbanne
+Avignon
+Drancy
+Le Mans
+Vitry-sur-Seine
+Vitry sur Seine
+Colmar
+Creteil
+Ajaccio
+armor
+bretones
+tregastel
+Aix-en-Provence
+Aix en Provence
+Dunkerque
+Bourges
+Clermont-Ferrand
+Clermont Ferrand
+Poitiers
+Issy-les-Moulineaux
+Issy les Moulineaux
+Brest
+Asnieres-sur-Seine
+Asnieres sur Seine
+Levallois-Perret
+lannionnais
+lannionais
+trégor
+ouest-france
+tregor
+trebeurden
+Afghan
+Sud-Africain
+Albanais
+Algérien
+Allemand
+Andorran
+Angolais
+Saoudien
+Argentin
+Arménien
+Arubain
+Australien
+Autrichien
+Azerbaïdjanais
+Bahamien
+Bahreïnien
+Bangladais
+Bangladeshi
+Barbadien
+Biélorusse
+Birman
+Belge
+Bélizien
+Béninois
+Bermudien
+Bhoutanais
+Bolivien
+Bosniaque 
+Bosnien
+Botswanais
+Botswanéen
+Brésilien
+Brunéien
+Bulgare
+Burkinabé
+Burkinais
+Burundais
+Camerounais
+Canadien
+Cap-Verdien
+Centrafricain
+Chilien
+Chinois
+Chypriote
+Cypriote
+Colombien
+Comorien
+Congolais
+Congolais
+Nord-Coréen
+Sud-Coréen
+Costaricain
+Costaricien
+Ivoirien
+Croate
+Cubain
+Danois
+Djiboutien
+Dominiquais
+Égyptien
+Émirien
+Équatorien
+Érythréen
+Espagnol
+Estonien
+Américain
+Éthiopien
+Fidjien
+Finlandais
+Français
+Gabonais
+Gambien
+Géorgien
+Ghanéen
+Gibraltarien
+Grec
+Grecque
+Grenadien
+Guatémaltèque
+Guinéen
+Bissau-Guinéen
+Équato-Guinéen
+Guyanais
+Guyanien
+Haïtien
+Hondurien
+Hongrois
+Indien
+Indonésien
+Iranien
+Irakien
+Iraquien
+Irlandais
+Islandais
+Israélien
+Italien
+Jamaïcain
+Japonais
+Jordanien
+Kazakh
+Kenyan
+Kirghiz
+Kiribatien
+Koweïtien
+Kosovar
+Laotien
+Lesothan
+Letton
+Libanais
+Libérien
+Libyen
+Liechtensteinois
+Lituanien
+Luxembourgeois
+Macédonien
+Malgache
+Malaisien
+Malawite
+Malawien
+Maldivien
+Malien
+Maltais
+Marocain
+Mauricien
+Mauritanien
+Mexicain
+Monégasque
+Mongol
+Monténégrin
+Mozambicain
+Namibien
+Népalais
+Nicaraguayen
+Nigérien
+Nigérian
+Norvégien
+Néo-Zélandais
+Omanais
+Ougandais
+Ouzbek
+Pakistanais
+Panaméen
+Papouasien
+Paraguayen
+Néerlandais
+Péruvien
+Philippin
+Polonais
+Portoricain
+Portugais
+Qatari
+Qatarien
+Dominicain
+Tchèque
+Roumain
+Britannique
+Russe
+Rwandais
+Saint-Vincentais
+Grenadin
+Salvadorien
+Sénégalais
+Serbe
+Sierra-Léonais
+Singapourien
+Slovaque
+Slovène
+Somalien
+Soudanais
+Sri-Lankais
+Suédois
+Suisse
+Surinamien
+Swazi
+Syrien
+Tadjik
+Taïwanais
+Tanzanien
+Tchadien
+Thaïlandais
+Est-Timorais
+Togolais
+Tunisien
+Turkmène
+Turc
+Turque
+Tuvaluan
+Ukrainien
+Uruguayen
+Vénézuélien
+Vietnamien
+Yéménite
+Zambien
+Zimbabwéen
+anglais
+arab
+français
+italien
+chinois
+grec
+russian
+japon
+zurich
+espàgna
